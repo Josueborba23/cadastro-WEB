@@ -7,7 +7,7 @@ Foram adicionados novos campos e aprimorou-se a interface.
 - Data de Nascimento;
 - Telefone;
 - Endereço;
-- Sexo (seleção em lista suspensa).
+- Gênero (seleção em lista suspensa).
 - Layout mais moderno e responsivo;
 - Formulário centralizado e com cores neutras;
 - Botão de envio com destaque;
