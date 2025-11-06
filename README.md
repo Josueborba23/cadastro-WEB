@@ -21,15 +21,13 @@ Requisitos Funcionais
 
 RF001: O sistema deve permitir o cadastro de novos usuários.
 
-RF002: O sistema deve validar os campos obrigatórios (nome, email e senha).
+RF002: O sistema deve armazenar os dados em um banco de dados.
 
-RF003: O sistema deve armazenar os dados em um banco de dados.
+RF003: O sistema deve permitir a consulta dos usuários cadastrados.
 
-RF004: O sistema deve permitir a consulta dos usuários cadastrados.
+RF004: O sistema deve permitir a atualização e exclusão de usuários.
 
-RF005: O sistema deve permitir a atualização e exclusão de usuários.
-
-RF006: O sistema deve garantir que o email seja único no cadastro.
+RF005: O sistema deve garantir que o email seja único no cadastro.
 
 Requisitos Não Funcionais
 
